@@ -5,3 +5,15 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mongo
+hello-world:latest
+alpine:latest
+ubuntu:22.04
+nginx:stable-alpine
+mysql:8.0
+redis:7-alpine
+python:3.11-slim
+node:20-alpine
+rabbitmq:management
+portainer/portainer-ce:latest
+containrrr/watchtower:latest
+vaultwarden/server:latest
